@@ -30,7 +30,7 @@ main.py ~ executed dbTableWriter.py
 # Dependencies
 - psycopg2==2.7.7
 - psycopg2-binary==2.7.7
-- python 3.6.3
+- python==3.6.3
 
 # Run-Instructions
 ## Clone the Repo
